@@ -1,5 +1,5 @@
 provider "iosxe" {
-  // Required but Optional if env variable are set
+  // Required but Optional if env variable are not set
   host = "https://10.1.1.5"
   device_username = "Cisco123"
   device_password = "somePassword"
